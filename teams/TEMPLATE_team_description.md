@@ -14,7 +14,7 @@ URLHERE
 * Advanced Topic Subteam 2: TOPICHERE
 
 	* STUDENT2NAMEHERE
-		* Pitt ID: HERE
+		* Pitt ID: HER
 		* Github Username: HERE
 
 ## Game Description
