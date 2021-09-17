@@ -17,7 +17,7 @@ URLHERE
 		* Pitt ID: Amw298
 		* Github Username: Amw298
 
-	*Zirui Huang
+	* Zirui Huang
 		* Pitt ID: zih17
 		* Github Username: angel4576
 
