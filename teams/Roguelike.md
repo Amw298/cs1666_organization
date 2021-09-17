@@ -5,17 +5,17 @@
 URLHERE
 
 ## Team Members
-* Advanced Topic Subteam 1: TOPICHERE
+* Advanced Topic Subteam 1: Procedural Generation 
 
 	* STUDENT1NAMEHERE
 		* Pitt ID: HERE
 		* Github Username: HERE
 
-* Advanced Topic Subteam 2: TOPICHERE
+* Advanced Topic Subteam 2: Physics engine
 
-	* STUDENT2NAMEHERE
-		* Pitt ID: HER
-		* Github Username: HERE
+	* Adam Wachowicz
+		* Pitt ID: Amw298
+		* Github Username: Amw298
 
 ## Game Description
 
