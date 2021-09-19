@@ -1,4 +1,4 @@
-# TEAMNAMEHERE
+# Rougelike
 
 ## Canonical game repo URL:
 
@@ -20,6 +20,10 @@ URLHERE
 	* Zirui Huang
 		* Pitt ID: zih17
 		* Github Username: angel4576
+		
+	* Davon Allensworth
+        * Pitt ID: dja52
+        * Github Username: davon-allensworth
 
 ## Game Description
 
@@ -27,19 +31,20 @@ DESCRIPTIONHERE
 
 ## Advanced Topic Description
 
-### TOPIC1
+### Procedural Generation
 
 DESCRIPTIONHERE
     
-### TOPIC2
+### Physics Engine
 
 DESCRIPTIONHERE
 
 ## Midterm Goals
 
-* GOAL1HERE
-* GOAL2HERE
-...
+* Fully playable, simplified first stage
+* Sprites (Player + Enemies) displayed on screen
+* Health system + HUD
+* Base-level abilities functional
 
 ## Final Goals
 
