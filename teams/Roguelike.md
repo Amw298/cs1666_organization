@@ -21,6 +21,10 @@ URLHERE
 		* Pitt ID: zih17
 		* Github Username: angel4576
 
+	* Victor Mui
+		* Pitt ID: vim43
+		* Github Username: victormui
+
 ## Game Description
 
 DESCRIPTIONHERE
