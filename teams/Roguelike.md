@@ -22,15 +22,12 @@ URLHERE
 	* Adam Wachowicz
 		* Pitt ID: Amw298
 		* Github Username: Amw298
-
 	* Zirui Huang
 		* Pitt ID: zih17
 		* Github Username: angel4576
-		
 	* Davon Allensworth
-        	* Pitt ID: dja52
-        	* Github Username: davon-allensworth
-
+		* Pitt ID: dja52
+		* Github Username: davon-allensworth
 	* Victor Mui
 		* Pitt ID: vim43
 		* Github Username: victormui
