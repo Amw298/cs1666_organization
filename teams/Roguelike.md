@@ -58,11 +58,10 @@ Description: A physics engine which will simulate rigid body physics with fricti
 
 ## Final Goals
 
-* 5%: Implement absorbing mechanic
-* 10%: Make a procedurally generated room
-* 20%: Finish procedural generation by creating 3 full levels
+* 15%: Implement absorbing mechanic
+* 25%: Implement procedural generation
 * 10% 2-3 weapons and abilities and 5 enemies
-* 30%: Add the rigid body simulation
+* 25%: Add the rigid body simulation
 
 
 ## Stretch Goals
