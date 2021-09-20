@@ -37,7 +37,8 @@ https://github.com/dannystirl/CS-1666-Project
 
 ## Game Description
 
-Top-Down Roguelike shooter with 8-directional movement. The player will be a slime that can absorb enemy abilities and will navigate through a procedurally generated maze to get to a boss. There will be 3 levels of the dungeon, each level getting larger and more difficult. 
+The game will be a Top-Down Roguelike shooter game with 8-directional movement. The player will be a slime that can absorb enemy's abilities or weapons, and will navigate through a procedurally generated maze to get to a boss. There will be 3 levels of the dungeon, each level getting larger and more difficult. For each level, there will be a boss room, some obtainable upgrades. and a maze of rooms that have enemies, puzzles, or upgrades. The player will be forced to think consciously and intelligently about where to travel in the level, which abilities to absorb, how to unlock secret areas, and how to fight the boss.
+
 
 ## Advanced Topic Description
 
