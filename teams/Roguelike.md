@@ -47,7 +47,7 @@ Description: The procedural generation team will implement this idea to generate
     
 ### Physics Engine
 
-Description: A physics engine which will simulate friction, mass and force. There will be barrels that explode and send shrapnel that bounces off of objects and some weapons will have projectiles that bounce. 
+Description: A physics engine which will simulate friction, mass and force. There will be barrels that explode and send shrapnel that bounces off of objects and some weapons will have projectiles that bounce. In addition explosions and specific weapons will produce knockback. 
 
 ## Midterm Goals
 
