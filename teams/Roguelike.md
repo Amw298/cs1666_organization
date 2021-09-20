@@ -2,7 +2,7 @@
 
 ## Canonical game repo URL:
 
-URLHERE
+https://github.com/dannystirl/CS-1666-Project
 
 ## Team Members
 * Advanced Topic Subteam 1: Procedural Generation 
