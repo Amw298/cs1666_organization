@@ -7,9 +7,12 @@ https://github.com/dannystirl/CS-1666-Project
 ## Team Members
 * Advanced Topic Subteam 1: Procedural Generation 
 
-	* STUDENT1NAMEHERE
-		* Pitt ID: HERE
-		* Github Username: HERE
+	* Daniel Stirling
+		* Pitt ID: dgs36
+		* Github Username: dannystirl
+	* Marshall Lentz
+		* Pitt ID: mal341
+		* Github Username: MAL341
 	* Yihua Pu
 		* Pitt ID: yip11
 		* Github Username: YihuaPu
@@ -34,7 +37,7 @@ https://github.com/dannystirl/CS-1666-Project
 
 ## Game Description
 
-DESCRIPTIONHERE
+Top-Down Roguelike shooter with Top-down 8-directional movement. The player will be a slime that can absorb enemy abilities and will navigate through a procedurally generated maze to get to a boss. There will be 3 levels of the dungeon, each level getting larger and more difficult. 
 
 ## Advanced Topic Description
 
@@ -44,7 +47,7 @@ Description: The procedural generation team will implement this idea to generate
     
 ### Physics Engine
 
-DESCRIPTIONHERE
+Description: A physics engine which will simulate friction, mass and force. There will be barrels that explode and send shrapnel that bounces off of objects and some weapons will have projectiles that bounce. 
 
 ## Midterm Goals
 
@@ -55,9 +58,9 @@ DESCRIPTIONHERE
 
 ## Final Goals
 
-* XX%: GOAL1HERE
-* XX%: GOAL2HERE
-* XX%: GOAL3HERE
+* 15%: Implement absorbing mechanic make a procedurally generated room
+* 25%: Finish procedural generation
+* 30%: Add the physics engine 
 ...
 
 ## Stretch Goals
