@@ -47,7 +47,7 @@ Description: The procedural generation team will implement this idea to generate
     
 ### Physics Engine
 
-Description: A physics engine which will simulate friction, mass and force. There will be barrels that explode and send shrapnel that bounces off of objects and some weapons will have projectiles that bounce. In addition explosions and specific weapons will produce knockback. 
+Description: A physics engine which will simulate rigid body physics with friction, mass and force. There will be barrels that explode and send shrapnel that bounces off of objects and some weapons will have projectiles that bounce. In addition explosions and specific weapons will produce knockback. 
 
 ## Midterm Goals
 
@@ -58,15 +58,16 @@ Description: A physics engine which will simulate friction, mass and force. Ther
 
 ## Final Goals
 
-* 15%: Implement absorbing mechanic and make a procedurally generated room
-* 25%: Finish procedural generation by creating full levels
-* 20%: Add the rigidbody simulation
-* 10%: Complete the physics engine
+* 5%: Implement absorbing mechanic
+* 10%: Make a procedurally generated room
+* 20%: Finish procedural generation by creating 3 full levels
+* 10% 2-3 weapons and abilities and 5 enemies
+* 30%: Add the rigid body simulation
 
 
 ## Stretch Goals
 
 * Add in an extra character class
-* Add a persistent currency for unlocks that carry over between runs
+* Add a persistent currency for unlocks that carries over between runs
 
 
