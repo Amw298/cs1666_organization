@@ -1,4 +1,4 @@
-# Rougelike
+# Roguelike
 
 ## Canonical game repo URL:
 
@@ -37,7 +37,7 @@ https://github.com/dannystirl/CS-1666-Project
 
 ## Game Description
 
-Top-Down Roguelike shooter with Top-down 8-directional movement. The player will be a slime that can absorb enemy abilities and will navigate through a procedurally generated maze to get to a boss. There will be 3 levels of the dungeon, each level getting larger and more difficult. 
+Top-Down Roguelike shooter with 8-directional movement. The player will be a slime that can absorb enemy abilities and will navigate through a procedurally generated maze to get to a boss. There will be 3 levels of the dungeon, each level getting larger and more difficult. 
 
 ## Advanced Topic Description
 
