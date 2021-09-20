@@ -58,10 +58,11 @@ Description: A physics engine which will simulate friction, mass and force. Ther
 
 ## Final Goals
 
-* 15%: Implement absorbing mechanic make a procedurally generated room
-* 25%: Finish procedural generation
-* 30%: Add the physics engine 
-...
+* 15%: Implement absorbing mechanic and make a procedurally generated room
+* 25%: Finish procedural generation by creating full levels
+* 20%: Add the rigidbody simulation
+* 10%: Complete the physics engine
+
 
 ## Stretch Goals
 
